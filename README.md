@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**amenizouinekh/amenizouinekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Amani 👋
 
-Here are some ideas to get you started:
+### 💻 Computer Science Student | Aspiring Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student passionate about software development and technology.
+
+- 🌱 Currently learning Full-Stack Development
+- 💻 Interested in Web and Mobile Development
+- 🚀 Building projects to improve my programming skills
+- 🎯 Always eager to learn new technologies and solve problems
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, HTML, CSS, C#
+- **Frontend:** React, Next.js
+- **Backend:** Learning and exploring
+- **Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Projects
+
+- **EduConnect** – An educational platform project.
+
+### 📫 Connect with me
+
+- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
+
+---
+
+⭐ Thanks for visiting my profile!
