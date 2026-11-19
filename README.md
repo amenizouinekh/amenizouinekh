@@ -1,30 +1,80 @@
 
-# Hi there, I'm Amani 👋
+# Hi, I'm Amani Zouinekh 👋
 
-### 💻 Computer Science Student | Aspiring Full-Stack Developer
+### Full-Stack Developer | Computer Science Student
 
-I'm a Computer Science student passionate about software development and technology.
+🎓 Third-year Computer Science student at ISET Zaghouan, specializing in Software Development.
 
-- 🌱 Currently learning Full-Stack Development
-- 💻 Interested in Web and Mobile Development
-- 🚀 Building projects to improve my programming skills
-- 🎯 Always eager to learn new technologies and solve problems
+💻 Passionate about building web applications and exploring new technologies.
 
-### 🛠️ Technologies & Tools
+🚀 Currently looking for a Final Year Project (PFE) internship opportunity.
 
-- **Languages:** JavaScript, HTML, CSS, C#
-- **Frontend:** React, Next.js
-- **Backend:** Learning and exploring
-- **Tools:** Git, GitHub, VS Code
+### 👩‍💻 About Me
 
-### 📌 Featured Projects
+- Full-Stack Web Development experience.
+- Completed an internship at Alpha Technologies.
+- Experienced with academic and personal software projects.
+- Currently learning Flutter and mobile development with Android Studio.
+- Always motivated to learn, collaborate, and build useful applications.
 
-- **EduConnect** – An educational platform project.
+### 🛠️ Technical Skills
 
-### 📫 Connect with me
+**Programming Languages**
+- HTML5, CSS3, JavaScript
+- PHP, Java, Python, C++
 
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
+**Frameworks & Libraries**
+- React.js, Angular
+- Symfony, Express.js, Bootstrap
+- Flutter (Currently learning)
+
+**Databases**
+- MySQL, PL/SQL
+
+**Tools**
+- Git, GitHub, VS Code
+- Android Studio, XAMPP, phpMyAdmin
+
+**Design & Modeling**
+- UML (Class, Sequence and Use Case Diagrams)
+
+### 💼 Professional Experience
+
+- **Alpha Technologies** — Web Development Internship
+- **Sagemcom** — Observation Internship
+- **Enactus ISET Zaghouan** — HR Member
+
+### 🚀 Featured Projects
+
+**University Clubs Management Platform**
+- Developed using Symfony, PHP, Twig, Doctrine ORM and MySQL.
+- User roles, authentication, applications and notifications.
+
+**Gym Management Application**
+- Built with React.js, Node.js, Express.js and MySQL.
+- Members, subscriptions, schedules and payment management.
+
+**Car Rental Management Application**
+- Built with Angular and REST API.
+- Vehicle management, rental calculations and availability updates.
+
+### 📚 Currently Learning
+
+- Flutter
+- Mobile Application Development
+- Android Studio
+
+### 🌍 Languages
+
+- Arabic: Native
+- French: Fluent
+- English: Intermediate
+
+### 📫 Connect With Me
+
+- LinkedIn: [Amani Zouinekh](https://www.linkedin.com/in/azouinakh)
+- Email: amenizouinekh2005@gmail.com
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Always learning, always building!
